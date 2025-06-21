@@ -27,3 +27,6 @@ yarn start
 cd client
 yarn install
 yarn start
+
+## 🌐 Live Demo
+🔗 [View Chat App](https://chatapp-flix.vercel.app/)
